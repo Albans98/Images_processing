@@ -1,0 +1,6 @@
+c:\users\alban\documents\visual studio 2015\Projects\STEFF_Alban_Projet_Images_TD_K\STEFF_Alban_Projet_Images_TD_K\bin\Debug\STEFF_Alban_Projet_Images_TD_K.exe.config
+c:\users\alban\documents\visual studio 2015\Projects\STEFF_Alban_Projet_Images_TD_K\STEFF_Alban_Projet_Images_TD_K\bin\Debug\STEFF_Alban_Projet_Images_TD_K.exe
+c:\users\alban\documents\visual studio 2015\Projects\STEFF_Alban_Projet_Images_TD_K\STEFF_Alban_Projet_Images_TD_K\bin\Debug\STEFF_Alban_Projet_Images_TD_K.pdb
+c:\users\alban\documents\visual studio 2015\Projects\STEFF_Alban_Projet_Images_TD_K\STEFF_Alban_Projet_Images_TD_K\obj\Debug\STEFF_Alban_Projet_Images_TD_K.csprojResolveAssemblyReference.cache
+c:\users\alban\documents\visual studio 2015\Projects\STEFF_Alban_Projet_Images_TD_K\STEFF_Alban_Projet_Images_TD_K\obj\Debug\STEFF_Alban_Projet_Images_TD_K.exe
+c:\users\alban\documents\visual studio 2015\Projects\STEFF_Alban_Projet_Images_TD_K\STEFF_Alban_Projet_Images_TD_K\obj\Debug\STEFF_Alban_Projet_Images_TD_K.pdb
