@@ -2,34 +2,48 @@
 
 *A solution to apply filters to images*
 
-- Rétrécissement par 2 des lignes et colonnes
+- [📍 Introduction](#-introduction)
+- [👩‍💻 Just tell me what to do](#-Just-tell-me-what-to-do)
+- [🎓 Developer](#Developer)
 
-- Agrandissement par 2 des lignes et colonnes
+## 📍 Introduction
 
-- Rotation 90°
+You can check the main code at `STEFF_Alban_Projet_Images_TD_K > MyImage.cs`. 
 
-- Rotation 180°
+This project was about building a solution to process `.bmp` images.
 
-- Rotation 270°
+## 👩‍💻 Just tell me what to do
 
-- Nuances de gris
+Here are the different posibilities :
 
-- Superposition de 2 images
+- Narrowing by 2 rows and columns
 
-- Noir et Blanc
+- Enlarging by 2 rows and columns
 
-- Traitements sur l'image :
-  - Flou
-  - Détection contours
-  - Renforcement des bords
-  - Repoussage
+- Rotate
 
-- Création d'une image décrivant une forme géométrique
+- Shades of gray
 
-- Histogrammes d'une image
+- Overlay of 2 images
 
-- Innovation : Fusion de deux images
+- Black and White
 
-- Innovation : Assombrissement d'image selon des équations de cercles
+- Image filters :
+  - Blur
+  - Edge detection
+  - Edges reinforcement
+  - Pushback
 
-- Innovation : Création d'un emoji souriant
+- Creating an image from scratch as a geometrial shape
+
+- Histogram of the composition of an image
+
+- Innovation : Merging 2 images
+
+- Innovation : Darkening of image according to equations of circles
+
+- Innovation : Creating a smiling emoji
+
+## 🎓 Developer
+
+Alban STEFF - {Student @ESILV-Paris} - Project of 2017
